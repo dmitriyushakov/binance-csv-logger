@@ -1,0 +1,18 @@
+symbols:
+  - BNBBTC
+  - BTCUSDT
+  - ALGOUSDT
+klines_intervals:
+  - 1m
+  - 3m
+  - 5m
+  - 10m
+  - 15m
+rec_book_order_updates: yes
+rec_klines: yes
+rec_trades: yes
+gzip_enabled: no
+folder: recordings
+api_types:
+  - spot
+  - usdm_futures
